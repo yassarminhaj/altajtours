@@ -136,7 +136,7 @@
     position: relative;
     display: inline-block;
     text-transform: uppercase;
-    color: var(--bs-primary);
+    color: var(--bs-secondary);
 }
 
 .sub-title::before {
